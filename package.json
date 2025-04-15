@@ -1,0 +1,26 @@
+{
+  "name": "openaigenerative",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/blipintime/openaigenerative#readme",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/blipintime/openaigenerative/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blipintime/openaigenerative.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "openai": "^4.86.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
